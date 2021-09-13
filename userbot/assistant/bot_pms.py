@@ -112,7 +112,7 @@ async def bot_start(event):
                 Button.url("Repo", "https://github.com/dangerbots/DANGER_CAT"),
                 Button.url(
                     "DEV",
-                    "https://t.me/DANGER_OF_TELEGRAM",
+                    "https://t.me/Karma_of_Telegram",
                 ),
             )
         ]
